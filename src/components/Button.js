@@ -1,7 +1,9 @@
 import React from "react";
 
 const Button = () => {
-  return <button>Click me!</button>
+  return <div>
+  <button>Plus 1</button>
+  </div>
 }
 
 export default Button
